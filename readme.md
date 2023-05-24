@@ -20,9 +20,9 @@ Para importar manualmente, adicione a seguinte linha ao inicio do seu arquivo:
 
           *const **variável** = require ("./utils/**nomedafunção**.js")*
 
-usagem modelo ==> variável(args)
+*usagem modelo ==> variável(args)*
 
-     !! Note que não é necessário que você utilize o nome da constante/função igual a que eu utilizei, porém, recomendo fazê-la para evitar erros, bugs ou conflitos futuros;
+     Note que não é necessário que você utilize o nome da constante/função igual a que eu utilizei, porém, recomendo fazê-la para evitar erros, bugs ou conflitos futuros;
 
 
 
@@ -45,6 +45,6 @@ To manually import, add the following line to the beginning of your file:
 
            *const **variable** = require("./utils/**functionname**.js")*
 
-template usage ==> variable(args)
+*template usage ==> variable(args)*
 
-      !! Notice that it is not necessary that you use the name of the constant/function the same as the one I used, however, I recommend doing it to avoid future errors, bugs or conflicts;
+      Notice that it is not necessary that you use the name of the constant/function the same as the one I used, however, I recommend doing it to avoid future errors, bugs or conflicts;
